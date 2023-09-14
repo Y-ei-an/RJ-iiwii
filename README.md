@@ -9,7 +9,7 @@
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
 - <b>Home Lab</b>
-  - [Active Directory Home Lab](https://github.com/RJ-iiwii/LABURL)
+  - [Active Directory Home Lab](https://github.com/RJ-iiwii/ActiveDirectoryLab)
 
 <h2>📄 Certifications:</h2>
 
