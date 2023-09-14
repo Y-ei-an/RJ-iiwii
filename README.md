@@ -13,7 +13,7 @@
 
 <h2>📄 Certifications:</h2>
 
-  - [Google Cybersecurity Professional](...)
+  - [Google Cybersecurity Professional (Ongoing)](...)
 
 <h2>📺 YouTube Videos:</h2>
 
