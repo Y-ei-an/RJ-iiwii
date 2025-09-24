@@ -1,9 +1,9 @@
-<h1>Hi, I'm RJ! 
+<h1>Hi, I'm Yeian! 
   <br/>
   <a href="https://www.linkedin.com/in/ieuan-phillips-54aa12216/">Cybersecurity Apprentice</a>,
-  <a href="https://github.com/RJ-iiwii">Programming</a>,  
-  <a href="https://www.youtube.com/@iiwii_">YouTube</a>, 
-  <a href="https://steamcommunity.com/id/iiwii_/">Gaming</a>
+  <a href="https://github.com/Y-ei-an">Programming</a>,  
+  <a href="https://www.youtube.com/@Y-ei-an">YouTube</a>, 
+  <a href="https://steamcommunity.com/id/yeian/">Gaming</a>
 </h1>
 
 <h2>👨‍💻 Cyber Security Projects:</h2>
